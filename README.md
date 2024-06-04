@@ -3,8 +3,10 @@ React native paper login template using Firebase's authentication api. This temp
 
 ## How to Get Started
 1. Clone the repository
-2. Run `npm install` to install the dependencies
-3. Run `npm start` to start the development server
+2. Create a .env file
+3. In .env, write `EXPO_PUBLIC_FIREBASE_API_KEY=[your_api_key]`
+4. Run `npm install` to install the dependencies
+5. Run `npm start` to start the development server
 
 ## Structure
 Main files for customization:
